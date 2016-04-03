@@ -1,0 +1,8 @@
+[package]
+name = "sudoku-solver"
+version = "0.1.0"
+authors = ["Simon Rönnberg <simon.ronnberg@codemill.se>"]
+
+[dependencies]
+"time" = "*"
+"rand" = "*"
